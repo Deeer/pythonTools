@@ -1,3 +1,4 @@
+#将svg转换为png格式
 #! encoding:UTF-8
 import cairosvg
 import os
